@@ -1,2 +1,2 @@
 # Shadowguard
-devwork
+Development files, references and backups.
